@@ -20,4 +20,5 @@ Python (Pandas, NumPy, Scikit-learn)
 Machine Learning Algorithms: Random Forest, SVM (optional)
 
 ==>Results :
+
 The deployed model accurately predicts multiple fault types, enabling organizations to schedule maintenance ahead of failures, improving operational efficiency and reducing downtime.
